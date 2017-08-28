@@ -1,5 +1,5 @@
 # time-lapse-raspberry-pi
-Using a Raspberry Pi 3 and camera module, I created a sunset timelapse. 
+Using a Raspberry Pi 3 and camera module (Camera Video Module for Raspberry Pi Model A/B/B+, Pi 2 and Raspberry Pi 3), I created a sunset timelapse. 
 
 # Detailed documentation on how to make your own
 
