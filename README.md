@@ -4,7 +4,7 @@ Using a Raspberry Pi 3 and camera module (Camera Video Module for Raspberry Pi M
 # Detailed documentation on how to make your own
 
 Configure the software:
-* Go to preferences, Raspberry Pi Configuration and Interfaces. 
+* Go to preferences, Raspberry Pi Configuration, and Interfaces. 
 * Enable the camera. 
 
 ## Still images
@@ -12,12 +12,11 @@ Configure the software:
 Using the provided code: 
 * Go to programming and select Python 3 (IDLE).
 * Open a new file and save it as `camera.py` (The file is in the repository).
-* Run the script using run or F5
+* Run the script using run or F5.
 
 Note: The preview will only work when the pi is using a monitor and there is no remote access. 
 
-If you want to take a timelapse using still images, use `sleep` to indicate the time frame. Input for `sleep` is the number of
-seconds you would like the module to wait.
+If you want to take a timelapse using still images, use `sleep` to indicate the time frame. Input for `sleep` is the number of seconds you would like the module to wait.
 
 ## Video
 
